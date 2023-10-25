@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my portofolio website**
 
-- 🌱 I’m currently learning **Web UI design with CSS and JS, Making games using Python and JS, Pixel art with Godot, and Blender Animation.**
+- 🌱 I’m currently learning **Web UI design with CSS and JS, Making games using Python and JS, Pixel art with Godot, and Blender.**
 
 - 📫 How to reach me **imanuelpattiasina74@gmail.com**
   
