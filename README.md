@@ -2,15 +2,15 @@
   <img src="Desktop.jpg" alt="MasterHead Banner" width="1920" height="300" style="object-fit: cover; object-position: center;">
 </p>
 
-<h1 align="center">Hi 👋, My name is Imanuel Pattiasina</h1>
-<h3 align="center">Fresh graduate majoring in Informatics.</h3>
+<h1 align="center">Hello 👋, My name is Imanuel Pattiasina</h1>
+<h3 align="center">Welcome to my project archives.</h3>
 <img align="right" alt="Coding" width="300" src="otong gede.jpg">
 
 - 🔭 I’m currently working on **my portofolio website**
 
-- 🌱 I’m currently learning **Web UI design with CSS and JS, Making games using Python and JS, Pixel art with Godot, and Blender.**
+- 🌱 I’m currently learning **Web UI design with CSS and JS, and Pygame.**
 
-- 📫 How to reach me **imanuelpattiasina74@gmail.com**
+- 📫 Contact me here **imanuelpattiasina74@gmail.com**
   
 <!--
 <h3 align="left">Connect with me:</h3>
