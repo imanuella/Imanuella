@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="Desktop.jpg" alt="MasterHead Banner" width="1920" height="300" style="object-fit: cover; object-position: center;">
+  <img src="banner.jpg" alt="MasterHead Banner" width="1920" height="300" style="object-fit: cover; object-position: center;">
 </p>
 
 <h1 align="center">Hello 👋, My name is Imanuel Pattiasina</h1>
 <h3 align="center">Welcome to my project archives.</h3>
-<img align="right" alt="Coding" width="300" src="otong gede.jpg">
+<img align="right" alt="Coding" width="300" src="profile.jpg">
 
 - 🔭 I’m currently working on **my portofolio website**
 
