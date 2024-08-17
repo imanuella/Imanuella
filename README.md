@@ -1,11 +1,12 @@
+<br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imanuella/Imanuella/main/banner.jpg" alt="MasterHead Banner" width="1920" height="300" style="object-fit: cover; object-position: center;">
+  <img src="http://moar.edgecats.net/cats/que.gif" alt="MasterHead Banner" width="700" height="100"">
 </p>
 
 
 
 <h1 align="center">Hello <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="25"/>, My name is Imanuel Pattiasina</h1>
-<h3 align="center">🗃 Welcome to my project archives 🗃️</h3>
+<h3 align="center">🗃️ Welcome to my project archives 🗃️</h3>
 
 <br>
 
